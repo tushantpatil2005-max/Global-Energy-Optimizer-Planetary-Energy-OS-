@@ -1,0 +1,18 @@
+├── .env.example              # Documents variables without committing secrets
+├── .gitignore                # Safely excludes node_modules and builds
+├── README.md                 # Professional documentation with theoretical equations & diagrams
+├── index.html                # Main SPA viewport mount
+├── metadata.json             # Sovereign Applet configurations
+├── package.json              # Custom build and dependency specifications
+├── tsconfig.json             # Advanced TypeScript strict type configurations
+├── server.ts                 # Full-stack Custom Express Server & Resilient AI Gateway Node
+└── src/                      # Client-side Core Folder
+    ├── App.tsx               # Primary Workspace Hub & Dashboard View
+    ├── index.css             # Embedded Google Fonts & Tailwind Layout Directives
+    ├── main.tsx              # React mounting root
+    ├── types.ts              # Declarative schema TypeScript definitions
+    ├── presets.ts            # Curated Planetary Mission scenarios
+    └── components/
+        ├── CognitiveWeb.tsx  # Dynamic Conductor Force-directed Flow Canvas
+        ├── CouncilDebate.tsx # Multi-Agent Dialogue Panel
+        └── GeniusShell.tsx   # Interactive Sandbox Terminal & Co-Reasoning interface
